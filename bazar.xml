@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bazar>
+	<nombre>LaChina</nombre>
+	<localidad>Navalmoral de la Mata</localidad>
+	<listaArticulos>
+		<artiuculo codigo="a01" baja="false">
+			<nombre>Jarron Chino</nombre>
+			<stock>30</stock>
+		</artiuculo>
+		<artiuculo codigo="a02" baja="true">
+			<nombre>Plato dibujo</nombre>
+			<stock>300</stock>
+		</artiuculo>
+		<artiuculo codigo="a03" baja="false">
+			<nombre>Abanico madera</nombre>
+			<stock>10</stock>
+		</artiuculo>
+		<artiuculo codigo="a04" baja="false">
+			<nombre>Toalla playa</nombre>
+			<stock>40</stock>
+		</artiuculo>
+	</listaArticulos>
+</bazar>
